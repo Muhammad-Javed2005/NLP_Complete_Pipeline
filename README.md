@@ -9,9 +9,9 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-**NLP_Complete_Pipeline** is a **complete end-to-end Natural Language Processing (NLP) study repository** developed by **Muhammad Javed**.
+**NLP_Complete_Pipeline** is a **complete end-to-end Natural Language Processing (NLP) study repository** developed by **Engr. Muhammad Javed**.
 
 This repository is designed for **learning, practice, and revision** of NLP concepts, starting from raw text preprocessing and ending with topic modeling and evaluation metrics.
 
@@ -24,7 +24,7 @@ Each folder represents **one core stage of a real-world NLP pipeline**, making t
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand the complete NLP workflow
 - Learn how to clean and preprocess text data
@@ -35,7 +35,7 @@ Each folder represents **one core stage of a real-world NLP pipeline**, making t
 
 ---
 
-## 🧠 What You Will Learn
+##  What You Will Learn
 
 ✔ Text preprocessing techniques  
 ✔ Feature engineering for text data  
@@ -45,7 +45,7 @@ Each folder represents **one core stage of a real-world NLP pipeline**, making t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.11
 - **Libraries:**
@@ -57,7 +57,7 @@ Each folder represents **one core stage of a real-world NLP pipeline**, making t
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 NLP_Complete_Pipeline/
@@ -105,9 +105,9 @@ NLP_Complete_Pipeline/
 
 ---
 
-## 🔍 Detailed Folder Explanation
+##  Detailed Folder Explanation
 
-### 1️⃣ Text Preprocessing
+### 1️. Text Preprocessing
 
 This stage focuses on cleaning raw text data.
 
@@ -123,7 +123,7 @@ Prepare raw text for feature extraction by removing noise.
 
 ---
 
-### 2️⃣ Feature Engineering
+### 2️. Feature Engineering
 
 Converts text into numerical format.
 
@@ -138,7 +138,7 @@ Enable Machine Learning models to understand text data.
 
 ---
 
-### 3️⃣ Classical Machine Learning Models
+### 3️. Classical Machine Learning Models
 
 Applies traditional ML algorithms on text features.
 
@@ -152,7 +152,7 @@ Perform text classification and prediction tasks.
 
 ---
 
-### 4️⃣ Evaluation Metrics
+### 4️. Evaluation Metrics
 
 Evaluates model performance.
 
@@ -168,7 +168,7 @@ Measure how well the NLP model performs.
 
 ---
 
-### 5️⃣ Topic Modeling
+### 5️.Topic Modeling
 
 Extracts hidden topics from text data.
 
@@ -180,7 +180,7 @@ Understand themes and topics in large text corpora.
 
 ---
 
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 
 ### Step 1: Clone the Repository
 ```bash
@@ -202,7 +202,7 @@ Start from:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Add Deep Learning models (LSTM, Transformers)
 - Add Word Embeddings (Word2Vec, GloVe, FastText)
@@ -211,7 +211,7 @@ Start from:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Engr. Muhammad Javed**  
 Computer Engineering Student  
